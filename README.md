@@ -16,7 +16,6 @@ Our line plot shows Urban cities with the highest revenue each week. There are s
 
 
 ## Summary
-provide three business recommendations to the CEO for addressing any disparities among the city types.
-There are more rides happening in Urban areas but they are cheaper. We can encourage more riders in these areas to travel longer distances.
-There may be a shortage of drivers in. rural and suburban areas, we can encourage drivers in Urban cities to move to these areas with bonuses.
-Get more drivers in suburban areas to use Pyber on the weekday if they are going into Urban areas for work with promotions.
+- There are more rides happening in Urban areas but they are cheaper. We can encourage more riders in these areas to travel longer distances.
+- There may be a shortage of drivers in. rural and suburban areas, we can encourage drivers in Urban cities to move to these areas with bonuses.
+- Get more drivers in suburban areas to use Pyber on the weekday if they are going into Urban areas for work with promotions.
